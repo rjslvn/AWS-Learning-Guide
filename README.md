@@ -1,5 +1,4 @@
 # AWS-Learning-Guide
-Certainly! Here's a comprehensive guide with a table of contents (TOC) covering various aspects of AWS:
 
 ## Table of Contents
 
