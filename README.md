@@ -8,9 +8,6 @@
 - **AWS Certified DevOps Engineer - Professional**
 
 ---
-Certainly! Here's the continuation of the study guide in a markdown format:
-
----
 
 ## **Part 1: AWS Core Services**
 
