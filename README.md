@@ -1,4 +1,92 @@
 # AWS-Learning-Guide
+Certainly! Here's a comprehensive guide with a table of contents (TOC) covering various aspects of AWS:
+
+## Table of Contents
+
+1. **Introduction to AWS**
+   - What is AWS?
+   - Benefits of AWS
+   - AWS Global Infrastructure
+
+2. **Getting Started with AWS**
+   - Creating an AWS Account
+   - AWS Management Console Overview
+   - Understanding AWS Regions and Availability Zones
+
+3. **AWS Core Services**
+   - **Amazon EC2 (Elastic Compute Cloud)**
+     - Overview
+     - Instance Types
+     - Creating and Managing Instances
+   - **Amazon S3 (Simple Storage Service)**
+     - Overview
+     - S3 Buckets
+     - Managing Objects in S3
+   - **Amazon VPC (Virtual Private Cloud)**
+     - Overview
+     - VPC Setup
+     - Subnets, Route Tables, and Security Groups
+   - **IAM (Identity and Access Management)**
+     - Overview
+     - Managing Users, Groups, and Roles
+     - IAM Policies and Permissions
+
+4. **Architecting Solutions on AWS**
+   - Design Patterns
+     - High Availability
+     - Scalability
+     - Decoupling
+   - Cost Optimization Strategies
+     - Reserved Instances
+     - Spot Instances
+     - Auto Scaling
+
+5. **Development on AWS**
+   - AWS SDK Usage Patterns
+   - Key Services for Development
+     - CodeCommit
+     - CodeBuild
+     - CodeDeploy
+     - Lambda
+     - API Gateway
+
+6. **Security Best Practices**
+   - IAM Roles vs. Policies
+   - Encryption at Rest and in Transit
+   - Network Security Concepts
+     - Security Groups
+     - Network ACLs
+
+7. **Operations and Monitoring**
+   - CloudWatch
+     - Metrics, Logs, Alarms
+   - Basic Troubleshooting Scenarios
+
+8. **Databases on AWS**
+   - Relational Databases (RDS)
+     - Common Engines
+     - Multi-AZ Deployments
+   - NoSQL Databases (DynamoDB)
+     - Partition Keys, Sort Keys
+     - Consistency Models
+   - ElastiCache (Redis, Memcached)
+
+9. **Analytics and Machine Learning**
+   - Amazon Redshift
+     - Data Warehousing Concepts
+     - Integration with AWS Services
+   - Amazon EMR
+     - Managed Hadoop Framework
+     - Use Cases and Best Practices
+   - Amazon SageMaker
+     - Machine Learning Platform
+     - Integration with AWS Services
+
+10. **Additional AWS Services**
+    - AWS IoT
+    - AWS Step Functions
+    - AWS Batch
+    - AWS Glue
 
 ---
 
