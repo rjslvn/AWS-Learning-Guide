@@ -1,6 +1,6 @@
 
 
-**Understanding Workload Characteristics**
+# **Understanding Workload Characteristics**
 
 * **CPU:** 
     * Compute-heavy = Compute-Optimized (C5) 
@@ -30,7 +30,7 @@
 * **Reserved Instances (RIs):** Predictable workloads, get discounts for commitment (1 or 3 years) 
 * **Spot Instances:** Bid on spare capacity, big discounts, but can be interrupted. 
 
-**Best Choice Quick Guide**
+# **Best Choice Quick Guide**
 
 * Steady web traffic = RIs
 * Batch jobs = Spot Instances
